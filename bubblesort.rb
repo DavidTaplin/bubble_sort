@@ -1,4 +1,4 @@
-bubble_array = [4,3,78,2,0,2]
+bubble_array = [15,33,1,9,27,100]
 
 def bubble_sort(array)
     unsorted = true
